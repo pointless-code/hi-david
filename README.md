@@ -7,16 +7,16 @@ A container that attempts to guess your name. Davids might have a bit more luck!
 ## Pull from docker
 
 ```bash
-docker pull pointlesscode/hi_david:latest
-docker run it pointlesscode/hi_david
+docker pull pointlesscode/hi-david:latest
+docker run it pointlesscode/hi-david
 ```
 
 ## Build it yourself
 - clone the project and cd to folder
 - build and run the image
 ```bash
-docker build -t hi_david .
-docker run it hi_david 
+docker build -t hi-david .
+docker run it hi-david 
 ```
 
 ## Social
