@@ -8,7 +8,7 @@ A container that attempts to guess your name. Davids might have a bit more luck!
 
 ```bash
 docker pull pointlesscode/hi-david:latest
-docker run iit pointlesscode/hi-david
+docker run -it pointlesscode/hi-david
 ```
 
 ## Build it yourself
